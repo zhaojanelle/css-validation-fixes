@@ -1,26 +1,17 @@
-# Markbot template
+# CSS validation fixes
 
-- Approx. completion time: **1 hour**
-- Deliverables: **1 HTML file, 1 CSS file, images**
+- Approx. completion time: **15 minutes**
+- Deliverables: **1 HTML file, 1 CSS file**
 
 ---
 
-**Quick project summary shown here.**
+**Work through all the validation errors, indentation problems, & file issues.**
 
 - *Fork this repository.*
-- List of tasks
-- And details
-- About the project
+- Fix all the naming convention issues.
+- Fix all the indentation problems.
+- Fix all the validation errors.
 - *Run it through Markbot and make sure it passes all the checks.*
-
----
-
-## Goal
-
-Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
-
-- [Final screenshots in the “screenshots” folder.](screenshots)
-- [**Watch this video to see how it interacts.**](https://youtu.be/)
 
 ---
 
