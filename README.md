@@ -1,11 +1,12 @@
-# CSS validation fixes
-
-- Approx. completion time: **15 minutes**
-- Deliverables: **1 HTML file, 1 CSS file**
-
+---
+summary: "Work through all the validation errors, indentation problems, & file issues."
+time: "15 minutes"
+deliverables: "1 HTML file, 1 CSS file"
 ---
 
-**Work through all the validation errors, indentation problems, & file issues.**
+# CSS validation fixes
+
+## Overview
 
 - *Fork this repository.*
 - Fix all the naming convention issues.
